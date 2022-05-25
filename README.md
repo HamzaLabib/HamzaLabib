@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HamzaLabib
-- 👀 I’m interested in big data field and video game programming.
-- 🌱 I’m currently learning video game programming.
-- 💞️ I’m looking to collaborate on learning more in C#, Python and R.
+- 👀 Game Developer with experience in Unity, object-oriented programming, 
+optimization, debugging and writing clean code. Ability to learn quickly and use 
+new programming languages, tools and applications.
 - 📫 How to reach me my linkedin: " https://www.linkedin.com/in/hamzalabib/ "
 
 <!---
