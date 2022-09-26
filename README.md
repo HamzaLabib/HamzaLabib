@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaLabib
 - 👀 Game Developer with experience in Unity, object-oriented programming, 
-optimization, debugging and writing clean code. Ability to learn quickly and use 
+optimization and debugging techniques. Ability to learn quickly and use 
 new programming languages, tools and applications.
 - 📫 How to reach me my linkedin: " https://www.linkedin.com/in/hamzalabib/ "
 - Also my portfolio " https://hamzalabib.github.io/portfolio/ "
